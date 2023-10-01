@@ -56,11 +56,13 @@ You can access the dashboards by following these steps:
 
 ## Screenshots
 
-Here are some screenshots of the dashboards:
+### Power BI
 
-![Dashboard 1](/screenshots/dashboard1.png)
+![Dashboard 1](Images/Insurance%20Power%20BI.jpeg)
 
-![Dashboard 2](/screenshots/dashboard2.png)
+### Tableau
+
+![Dashboard 2](/Images/Insurance%20Tableau.jpeg)
 
 
 
