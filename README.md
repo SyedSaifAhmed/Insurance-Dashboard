@@ -45,14 +45,6 @@ Our top four opportunities were in the Fire, EL-group Mediclaim, DB-Mega policy,
 
 In terms of product distribution, we had a total of 49 opportunities, with 15 in the employee group category, 13 in the fire category, and the lowest count of 2 in miscellaneous, along with 1 for terrorism.
 
-## How to Access the Dashboards
-
-You can access the dashboards by following these steps:
-
-1. **Power BI Dashboards**: Download the `.pbix` files from the "Power BI" directory and open them using Power BI Desktop or upload them to the Power BI service for online access.
-
-2. **Tableau Dashboards**: Access the Tableau dashboards by visiting the provided Tableau Online or Tableau Server links in the "Tableau" directory.
-
 
 ## Screenshots
 
